@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/booking.o
+debug/space.o
+debug/PrivateOffice.o
+debug/HotDesk.o
+debug/MeetingRoom.o
+debug/Member.o
+debug/DailyMember.o
+debug/MonthlyMember.o
+debug/CorporateMember.o
+debug/CoWorkingSystem.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o

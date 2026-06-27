@@ -1,0 +1,3 @@
+1001|Daily|Ali Khan|0300-1234567|2025-01-15|0
+1002|Monthly|Sara Ahmed|0301-2345678|2025-01-10|0
+1003|Corporate|Tech Solutions|0302-3456789|2025-01-01|0

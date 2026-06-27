@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/booking.o
+release/space.o
+release/PrivateOffice.o
+release/HotDesk.o
+release/MeetingRoom.o
+release/Member.o
+release/DailyMember.o
+release/MonthlyMember.o
+release/CorporateMember.o
+release/CoWorkingSystem.o
+release/qrc_resources.o
+release/moc_mainwindow.o
